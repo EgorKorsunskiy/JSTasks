@@ -1,0 +1,9 @@
+{
+    "condition": {
+        "include": [{
+            "name": "John"
+        }],
+        "sort_by": ["email"],
+        "exclude": [{"email": "grggsg"}]
+    }
+}

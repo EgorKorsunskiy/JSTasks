@@ -1,0 +1,88 @@
+[
+    [{
+      "question": "How old are you?",
+      "answers": [{
+        "answer": "younger than 18",
+        "nextQuestion": 2
+      },
+      {
+        "answer": "elder than 18",
+        "nextQuestion": 3
+      }]
+    },
+    {
+      "question": "Do you like going to school?",
+      "answers": [{
+        "answer": "Yes!",
+        "nextQuestion": null
+      },
+      {
+        "answer": "No...",
+        "nextQuestion": null
+      }]
+    },
+    {
+      "question": "Are you working?",
+      "answers": [{
+        "answer": "Yes",
+        "nextQuestion": null
+      },
+      {
+        "answer": "No",
+        "nextQuestion": null
+      }]
+    }],
+    [
+      {
+        "question": "Do you like basketball?",
+        "answers": [{
+          "answer": "Yes",
+          "nextQuestion": 2
+        },
+        {
+          "answer": "No",
+          "nextQuestion": null
+        }]
+      },
+      {
+        "question": "Do you play basketball?",
+        "answers": [{
+          "answer": "Yes",
+          "nextQuestion": 3
+        },
+        {
+          "answer": "No, just watch",
+          "nextQuestion": 4
+        }]
+      },
+      {
+        "question": "how often do you play bascketball?",
+        "answers": [{
+          "answer": "once a week",
+          "nextQuestion": null
+        },
+        {
+          "answer": "twice a week",
+          "nextQuestion": null
+        },{
+          "answer": "more often",
+          "nextQuestion": null
+        }]
+      },
+      {
+        "question": "Do you watch it alone or with friends?",
+        "answers": [{
+          "answer": "With my friend",
+          "nextQuestion": null
+        },
+        {
+          "answer": "Alone, my friend like football(",
+          "nextQuestion": null
+        },
+        {
+          "answer": "with my bf/gf",
+          "nextQuestion": null
+        }]
+      }
+    ]
+  ]
