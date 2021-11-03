@@ -1,0 +1,23 @@
+{
+    "m": {
+        "toMeterCoef": 1 
+    },
+    "cm": {
+        "toMeterCoef": 0.01
+    },
+    "ft": {
+        "toMeterCoef": 0.3048
+    },
+    "in": {
+        "toMeterCoef": 0.0254
+    },
+    "km": {
+        "toMeterCoef": 1000
+    },
+    "mm": {
+        "toMeterCoef": 0.001
+    },
+    "yd": {
+        "toMeterCoef": 0.9144
+    }
+}
